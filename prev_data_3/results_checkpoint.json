@@ -1,0 +1,22 @@
+[
+  {
+    "run_id": "cifar10__norm=lip_floor__seed=0",
+    "norm_type": "lip_floor",
+    "dataset": "cifar10",
+    "seed": 0,
+    "best_cra": 24.27,
+    "final_val_acc": 41.0,
+    "final_cra": 11.41,
+    "final_emp_lip": 0.002311045272595861,
+    "final_grad_norm": 0.6629972319954414,
+    "train_time_mean": 2.8154131174087524,
+    "train_time_std": 0.10491809901469762,
+    "inf_time_mean": 2.1381806325912476,
+    "inf_time_std": 0.20957582244638703,
+    "train_memory_bytes": 14432976384,
+    "train_memory_str": "14.43 GB",
+    "inf_memory_bytes": 811598336,
+    "inf_memory_str": "811.60 MB",
+    "total_time": 131122.86409163475
+  }
+]

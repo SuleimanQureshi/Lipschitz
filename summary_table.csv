@@ -1,0 +1,5 @@
+dataset,norm_type,Clean Acc,CRA,Emp. Lip,Grad Norm,Train t/batch,Inf t/batch,Train Mem,Inf Mem
+cifar10,None,67.63,52.85,0.0121,1.8393,2502.5 ± 95.1 ms,2065.6 ± 195.5 ms,11.54 GB,810.81 MB
+cifar10,center,53.77,34.99,0.0235,0.8147,2806.1 ± 14.3 ms,2224.2 ± 208.7 ms,11.54 GB,811.86 MB
+cifar100,None,36.01,23.00,0.0281,2.0246,2592.7 ± 22.8 ms,2083.9 ± 197.1 ms,11.54 GB,810.81 MB
+cifar100,center,19.65,9.29,0.0436,0.8404,2834.7 ± 18.0 ms,2252.9 ± 209.4 ms,11.54 GB,810.81 MB
